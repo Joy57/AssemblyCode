@@ -1,7 +1,8 @@
  *-----------------------------------------------------------
-* Written by : Joy
-* Date : 11/05/2017
-* Description: check if a string is palindrome or not
+* Title :
+* Written by :
+* Date :
+* Description:
 *-----------------------------------------------------------
   ORG $1000
 START: ; first instruction of program
@@ -62,7 +63,6 @@ input ds.b $2000
 * Put variables and constants here
 
     END START ; last line of source
-
 
 *~Font name~Courier New~
 *~Font size~10~
